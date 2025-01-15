@@ -1,10 +1,12 @@
 # Exercise-01a-Install-Software
 My name is:
 
-[Your Name]
+Blayne Baker
 
 My github username is:
 
-[Your Username]
+IvoryFlower-pixle
 
 BL-MSCH-C220
+
+I have downloaded all the softwear.
