@@ -9,4 +9,4 @@ IvoryFlower-pixle
 
 BL-MSCH-C220
 
-I have downloaded all the softwear.
+I have installed the software on my computer as a part of the exercise
